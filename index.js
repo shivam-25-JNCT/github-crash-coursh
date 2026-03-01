@@ -6,7 +6,7 @@ function sayname (){
     console.log("my name is" + name);
     
 }
-
-function isAbove18(){
-    return age >=18;
+function newFun(){
+    console.log('Hey i am a new fn');
+    
 }
