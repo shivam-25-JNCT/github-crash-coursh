@@ -1,4 +1,3 @@
-function sayhello(){
-    console.log("hello world");  
-    
+function mul(a,b){
+    return a*b;
 }
