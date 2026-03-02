@@ -14,5 +14,6 @@ function forb(){
 function forc(){
     console.log("new Eaturesa");
     console.log("new added c acbB");
+    console.log("new add in my name shivam");
     
 }
