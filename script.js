@@ -11,3 +11,8 @@ function forb(){
     console.log("new Eature acbB");
     
 }
+function forc(){
+    console.log("new Eaturesa");
+    console.log("new added c acbB");
+    
+}
