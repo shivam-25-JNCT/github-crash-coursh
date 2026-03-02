@@ -2,7 +2,7 @@ const age=24;
 const name="shivam";
 const dob='10/10/96'
 const my_cast_name="sahu"
-
+const amIValid =true;
 function sayname (){
     console.log("my name is" + name);
     
