@@ -6,3 +6,8 @@ function newFes(){
     console.log("new Eature AB");
     
 }
+function forb(){
+    console.log("new Eaturesa");
+    console.log("new Eature acbB");
+    
+}
