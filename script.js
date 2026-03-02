@@ -3,5 +3,6 @@ function mul(a,b){
 }
 function newFes(){
     console.log("new Eature");
+    console.log("new Eature AB");
     
 }
